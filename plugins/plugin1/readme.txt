@@ -1,0 +1,1 @@
+Bad plugin example (empty folder)
